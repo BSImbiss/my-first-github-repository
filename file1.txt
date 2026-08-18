@@ -2,5 +2,6 @@ Line 1
 Line 2
 Line 4
 Line 5
-Line 6
+This line was modified in feature-2 branch.
 Line 7
+This line was added in feature-2 branch.
